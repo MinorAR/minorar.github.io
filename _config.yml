@@ -1,7 +1,7 @@
 title:            Blog
 description:      Minor adaptive robotics project
 disqus_shortname: 
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -10,9 +10,9 @@ url: http://minorar.github.io
 # Owner/author information
 owner:
   name:           Minor adaptive robotics 
-  avatar:         avatar.jpg
+  avatar:         [avatar](https://avatars0.githubusercontent.com/u/18026096?v=3&s=200)
   bio:            ""
-  email:          you@email.com
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
