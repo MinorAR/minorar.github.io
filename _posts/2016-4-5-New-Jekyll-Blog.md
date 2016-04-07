@@ -1,5 +1,7 @@
 ---
 layout: post
-title: New Jekyll Blog
+title: New Blog
+published: true
 ---
-New blogging system hosted on github pages installed using [Jekyll now](http://www.jekyllnow.com/)
+
+New blogging system hosted on github pages based on jekyll
